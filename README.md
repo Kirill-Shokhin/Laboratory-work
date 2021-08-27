@@ -1,2 +1,2 @@
 # Лабораторные работы 
-В данном репозитории хранятся некоторые лабораторные работы по физике, а также прочие работы, выполненные на python.
+В данном репозитории хранятся некоторые лабораторные работы по физике (<a href=https://github.com/Kirill-Shokhin/Laboratory-work/blob/main/Диод%2BПроволока.ipynb>Диод+Проволока</a>, <a href=https://github.com/Kirill-Shokhin/Laboratory-work/blob/main/Спектрометр.ipynb>Спектрометр</a>), исследование в сфере фондовых рынков (<a href=https://github.com/Kirill-Shokhin/Laboratory-work/blob/main/Прогнозирование%20цен%20российских%20акций.ipynb>Прогнозирование цен российских акций</a>), а также прочие работы, выполненные на python.
